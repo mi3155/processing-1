@@ -16,3 +16,4 @@ void draw(){<br>
 }<br>
 
 ## result
+![2-1](/2-1.PNG)
