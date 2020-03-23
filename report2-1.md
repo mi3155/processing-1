@@ -11,6 +11,8 @@ void draw(){<br>
   if(keyPressed)<br>
     a= key-'0';<br>
    text("Graphics", i=i+a,200);<br>
+   fill(255,0,255);<br>
    if(i>800) i=0;<br>
 }<br>
 
+## result
